@@ -6,9 +6,11 @@ import { Repository } from 'typeorm';
 @Injectable()
 export class UserService {
 
-  constructor(@InjectRepository(UserEntity) private userRepo: Repository<UserEntity>) {}
+  constructor(
+    @InjectRepository(UserEntity) private userRepo: Repository<UserEntity>
+    ) {}
 
   async findByUsername(username: string): Promise<UserEntity> {
-    return this.userRepo.findOne({ where: {username}})
+    return this.userRepo.findOne({ where: {username}});
   }
 }

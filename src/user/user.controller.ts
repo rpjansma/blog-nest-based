@@ -9,5 +9,5 @@ export class UserController {
   findCurrentUser(username: string) {
     return this.userService.findByUsername(username);
   }
-  
+
 }

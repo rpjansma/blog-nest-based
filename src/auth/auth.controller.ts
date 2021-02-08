@@ -1,5 +1,4 @@
-import { Body, ValidationPipe } from '@nestjs/common';
-import { Controller, Post } from '@nestjs/common';
+import { Body, ValidationPipe, Controller, Post } from '@nestjs/common';
 
 import { LoginDTO, RegisterDTO } from '../models/user.model'
 
