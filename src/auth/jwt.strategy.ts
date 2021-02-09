@@ -8,7 +8,7 @@ import { AuthPayload } from 'src/models/user.model';
 import { Repository } from 'typeorm';
 
 @Injectable()
-export class JwtStrategy extends PassportStrategy(Strategy) {
+export class JwtStrategy extends PassportStrategy(Strategy, 'jwt') {
   constructor(@InjectRepository(UserEntity) private userRepo: Repository<UserEntity>,) {
     super({
       jwtFromRequest: ExtractJwt.fromAuthHeaderWithScheme('Token'),
