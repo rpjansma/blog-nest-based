@@ -59,7 +59,7 @@ $ npm run test:cov
 ```
 
 ## Collection
-<a href="https://www.getpostman.com/collections/a2c09847565456397b57" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40prateek.soni%2Fa-guide-to-api-testing-using-postman-1e05266d86e7&psig=AOvVaw1M9XBxMs1ZOmLvjkRf7Z9j&ust=1612981014762000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCayte03e4CFQAAAAAdAAAAABAN" alt="Postman" /></a>
+<a href="https://www.getpostman.com/collections/a2c09847565456397b57" target="_blank"><img src="https://miro.medium.com/proxy/1*QOx_tPV5wJnhTzAGhfIiLA.png" alt="Postman" /></a>
 
 
 ## Support
