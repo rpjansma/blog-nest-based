@@ -59,7 +59,7 @@ $ npm run test:cov
 ```
 
 ## Collection
-<a href="https://www.getpostman.com/collections/a2c09847565456397b57" target="_blank"><img src="https://miro.medium.com/proxy/1*QOx_tPV5wJnhTzAGhfIiLA.png" alt="Postman" /></a>
+<a href="https://www.getpostman.com/collections/a2c09847565456397b57" target="_blank"><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png" alt="Postman" /></a>
 
 
 ## Support
